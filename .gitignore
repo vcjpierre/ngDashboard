@@ -1,7 +1,38 @@
 # File created using '.gitignore Generator' for Visual Studio Code: https://bit.ly/vscode-gig
 
-# Created by https://www.gitignore.io/api/windows,visualstudiocode,node,aspnetcore
-# Edit at https://www.gitignore.io/?templates=windows,visualstudiocode,node,aspnetcore
+# Created by https://www.gitignore.io/api/windows,visualstudiocode,node,aspnetcore,angular
+# Edit at https://www.gitignore.io/?templates=windows,visualstudiocode,node,aspnetcore,angular
+
+### Angular ###
+## Angular ##
+# compiled output
+dist/
+tmp/
+app/**/*.js
+app/**/*.js.map
+
+# dependencies
+node_modules/
+bower_components/
+
+# IDEs and editors
+.idea/
+
+# misc
+.sass-cache/
+connect.lock/
+coverage/
+libpeerconnection.log/
+npm-debug.log
+testem.log
+typings/
+
+# e2e
+e2e/*.js
+e2e/*.map
+
+#System Files
+.DS_Store/
 
 ### ASPNETCore ###
 ## Ignore Visual Studio temporary files, build results, and
@@ -130,7 +161,6 @@ nCrunchTemp_*
 AutoTest.Net/
 
 # Web workbench (sass)
-.sass-cache/
 
 # Installshield output folder
 [Ee]xpress/
@@ -202,7 +232,6 @@ ClientBin/
 *.jfm
 *.pfx
 *.publishsettings
-node_modules/
 orleans.codegen.cs
 
 # Since there are multiple workflows, uncomment next line to ignore bower_components
@@ -260,7 +289,6 @@ paket-files/
 .fake/
 
 # JetBrains Rider
-.idea/
 *.sln.iml
 
 # CodeRush
@@ -316,7 +344,6 @@ build/Release
 jspm_packages/
 
 # TypeScript v1 declaration files
-typings/
 
 # TypeScript cache
 *.tsbuildinfo
@@ -350,7 +377,6 @@ typings/
 .nuxt
 
 # rollup.js default build output
-dist/
 
 # Uncomment the public line if your project uses Gatsby
 # https://nextjs.org/blog/next-9-1#public-directory-support
@@ -374,7 +400,6 @@ dist/
 .dynamodb/
 
 # Temporary folders
-tmp/
 temp/
 
 ### VisualStudioCode ###
@@ -414,7 +439,7 @@ $RECYCLE.BIN/
 # Windows shortcuts
 *.lnk
 
-# End of https://www.gitignore.io/api/windows,visualstudiocode,node,aspnetcore
+# End of https://www.gitignore.io/api/windows,visualstudiocode,node,aspnetcore,angular
 
 # Custom rules (everything added below won't be overriden by 'Generate .gitignore File' if you use 'Update' option)
 

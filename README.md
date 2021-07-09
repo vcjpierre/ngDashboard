@@ -1,6 +1,6 @@
 # ngDashboard
 
-Business intelligence dashboard application using .NET Core with PostgreSQL and Angular.
+Business Intelligence dashboard application using .NET Core with PostgreSQL and Angular.
 
 <p align="center">
   <img src="https://res.cloudinary.com/dbpwbtkis/image/upload/v1625872006/2021-07-09_190412_gvy84c.png" />

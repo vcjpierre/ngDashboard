@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "bDwlnXqZwdPFfuybrkBJVPbWwvjaV6v8cL+E0KUWOVZE6rDs1Jy5GqQQkV2katADe2powTk2GG5O3rRHSGIHLA==",
+  "dgSpecHash": "R7PJ+IELM+QDWhIHfEBoHx8GB1ikCN74nTbOh/PcEHwqhRNweef5KdlUY4MrhawHOaXw42nrcKbDHgN1ByH4IA==",
   "success": true,
-  "projectFilePath": "C:\\Users\\Velez\\Desktop\\ASP.NET Core + Angular Dashboard\\api\\api.csproj",
+  "projectFilePath": "D:\\Proyectos\\FullStack\\netcore-angular-dashboard\\api\\api.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\Velez\\.nuget\\packages\\microsoft.bcl.asyncinterfaces\\1.1.1\\microsoft.bcl.asyncinterfaces.1.1.1.nupkg.sha512",
     "C:\\Users\\Velez\\.nuget\\packages\\microsoft.bcl.hashcode\\1.1.0\\microsoft.bcl.hashcode.1.1.0.nupkg.sha512",
@@ -29,8 +29,7 @@
     "C:\\Users\\Velez\\.nuget\\packages\\system.collections.immutable\\1.7.1\\system.collections.immutable.1.7.1.nupkg.sha512",
     "C:\\Users\\Velez\\.nuget\\packages\\system.componentmodel.annotations\\4.7.0\\system.componentmodel.annotations.4.7.0.nupkg.sha512",
     "C:\\Users\\Velez\\.nuget\\packages\\system.diagnostics.diagnosticsource\\4.7.1\\system.diagnostics.diagnosticsource.4.7.1.nupkg.sha512",
-    "C:\\Users\\Velez\\.nuget\\packages\\system.runtime.compilerservices.unsafe\\4.6.0\\system.runtime.compilerservices.unsafe.4.6.0.nupkg.sha512",
-    "C:\\Users\\Velez\\.nuget\\packages\\microsoft.aspnetcore.app.ref\\3.1.2\\microsoft.aspnetcore.app.ref.3.1.2.nupkg.sha512"
+    "C:\\Users\\Velez\\.nuget\\packages\\system.runtime.compilerservices.unsafe\\4.6.0\\system.runtime.compilerservices.unsafe.4.6.0.nupkg.sha512"
   ],
   "logs": []
 }

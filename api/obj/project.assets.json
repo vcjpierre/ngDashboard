@@ -910,21 +910,17 @@
     ]
   },
   "packageFolders": {
-    "C:\\Users\\Velez\\.nuget\\packages\\": {},
-    "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder": {}
+    "C:\\Users\\Velez\\.nuget\\packages\\": {}
   },
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\Velez\\Desktop\\ASP.NET Core + Angular Dashboard\\api\\api.csproj",
+      "projectUniqueName": "D:\\Proyectos\\FullStack\\netcore-angular-dashboard\\api\\api.csproj",
       "projectName": "api",
-      "projectPath": "C:\\Users\\Velez\\Desktop\\ASP.NET Core + Angular Dashboard\\api\\api.csproj",
+      "projectPath": "D:\\Proyectos\\FullStack\\netcore-angular-dashboard\\api\\api.csproj",
       "packagesPath": "C:\\Users\\Velez\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\Velez\\Desktop\\ASP.NET Core + Angular Dashboard\\api\\obj\\",
+      "outputPath": "D:\\Proyectos\\FullStack\\netcore-angular-dashboard\\api\\obj\\",
       "projectStyle": "PackageReference",
-      "fallbackFolders": [
-        "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
-      ],
       "configFilePaths": [
         "C:\\Users\\Velez\\AppData\\Roaming\\NuGet\\NuGet.Config",
         "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
@@ -938,6 +934,7 @@
       },
       "frameworks": {
         "netcoreapp3.1": {
+          "targetAlias": "netcoreapp3.1",
           "projectReferences": {}
         }
       },
@@ -949,6 +946,7 @@
     },
     "frameworks": {
       "netcoreapp3.1": {
+        "targetAlias": "netcoreapp3.1",
         "dependencies": {
           "Microsoft.EntityFrameworkCore": {
             "target": "Package",
@@ -981,12 +979,6 @@
         ],
         "assetTargetFallback": true,
         "warn": true,
-        "downloadDependencies": [
-          {
-            "name": "Microsoft.AspNetCore.App.Ref",
-            "version": "[3.1.2, 3.1.2]"
-          }
-        ],
         "frameworkReferences": {
           "Microsoft.AspNetCore.App": {
             "privateAssets": "none"
@@ -995,7 +987,7 @@
             "privateAssets": "all"
           }
         },
-        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\3.1.300\\RuntimeIdentifierGraph.json"
+        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\5.0.301\\RuntimeIdentifierGraph.json"
       }
     }
   }
